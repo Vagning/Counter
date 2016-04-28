@@ -1,5 +1,5 @@
 # Counter
-Apple Watch Counter 
+Apple Watch Counter (WIP)
 
 Easy to use tap counter for Apple Watch
 
